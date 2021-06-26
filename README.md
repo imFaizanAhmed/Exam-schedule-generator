@@ -1,4 +1,4 @@
-# time-table-generator
+# Exam-schedule-generator
 In this project, time table was generated using a classical Artificial interlligence algorithm called Generic Algorithm. 
 The success of solution is estimated on fulfillment of given constraints and criteria. Results of testing the algorithm show that all hard constraints are satisfied, while additional criteria are optimized to a certain extent.
 
